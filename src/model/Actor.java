@@ -1,4 +1,4 @@
-package mondel;
+package model;
 
 public class Actor {
 	// フィールド（名前、生命力、攻撃力）

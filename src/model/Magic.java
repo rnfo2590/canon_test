@@ -1,4 +1,4 @@
-package mondel;
+package model;
 
 
 public class Magic {

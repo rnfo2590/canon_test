@@ -4,10 +4,10 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
 
-import mondel.Actor;
-import mondel.Equipment;
-import mondel.Magic;
-import mondel.Weapon;
+import model.Actor;
+import model.Equipment;
+import model.Magic;
+import model.Weapon;
 
 
 
